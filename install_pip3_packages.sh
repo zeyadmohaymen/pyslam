@@ -66,7 +66,7 @@ install_pip_package scipy==1.10.1
 install_pip_package scikit-image==0.21.0 # mac
 install_pip_package seaborn==0.13.2
 
-install_pip_package tensorflow==2.13
+install_pip_package tensorflow==2.15
 install_pip_package tf_slim==1.1.0
 
 install_pip_package kornia==0.7.3
